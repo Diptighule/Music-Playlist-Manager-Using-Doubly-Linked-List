@@ -120,7 +120,6 @@ GitHub can render the Mermaid diagrams in the Markdown file.
 
 - `main.cpp` – complete C++ source code
 - `flowchart.md` – flowchart, linked-list diagram, and class diagram
-- `output.txt` – sample program output
 - `README.md` – project documentation
 
 ## Learning Outcomes
