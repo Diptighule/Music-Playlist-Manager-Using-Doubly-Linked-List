@@ -105,7 +105,6 @@ Enter your choice: 0
 Thank you for using Music Playlist Manager!
 ```
 
-*The sample output is illustrative. Your actual output depends on the songs and menu choices entered.*
 
 ## Diagrams
 
